@@ -43,7 +43,6 @@ function Home() {
             <section className="flex items-center h-full"></section>
             <div classsName="h-full w-px bg-[#3D3E48]"></div>
             <h3 className="p-4">Person</h3>
-            </section>
           </div>
         </div>
       </section>
